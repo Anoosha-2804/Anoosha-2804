@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ANOOSHA .. you can call me anoo 
+- 👋 Hi, I’m ANOOSHA .. you can call me anoo-sha
 - 👀 I’m interested in a lot of things and thats what led me to git 
 - 🌱 I’m currently learning git and python
 - 📫 How to reach me - through my mail or git which ever is easy 
